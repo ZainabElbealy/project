@@ -136,10 +136,6 @@
     background-size: cover;
     
 }
-/* @media screen and (min-width:300px) and(max-width:575px){
-
-    /* .f{
-        width:;} */
 
 
 
@@ -153,7 +149,11 @@
         width: 100% !important;
         height: 500px;
     }
+.btn1{
+    
+    width: 163px !important;
 
+}
     .services{
         width: 100%;
        
@@ -178,16 +178,20 @@
 
         height: 10rem !important;
     }
+    .rs{
+        font-size: medium;
+}
+    
     .pg{
-        font-size: 22px !important;
+        font-size: 13px !important;
     
     }
        
 
     .ex{
-        font-size: 14px;
-    width: 29%;
-    height: 20%;
+        font-size: 72%;
+    width: 43%;
+    height: 22%;
 }
 
 
@@ -243,14 +247,24 @@
         margin-top: 0;
     }
 .search{
-    width: 83% !important;
+    width: 100% !important;
     justify-content: end;
 
 }
 
 .yemad{
 
-    font-size: 13px !important;
+    font-size: 9px !important;
+}
+h4{
+    font-size: 15px;
+}
+.p-imgSection{
+    font-size: 11px;
+}
+
+.ygb{
+    width: 44% !important;
 }
 
 .llogo{
