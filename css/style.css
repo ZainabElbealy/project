@@ -12,40 +12,6 @@
 
 }
 
-/* @media screen and(min-width:52px) and (max-width:450px) {
-    .heads{
-    
-        
-        height: 500px;
-    }
-
-
-
-
-} */
-
-
-
-
-/* @media screen and (max-width:600px) {
-.heads{
-    
-    width: 100% !important;
-    height: 500px;
-}
-.btn1{
-    width: 100px !important;
-    height: 28px;
-    font-size: 8pt !important;
-   
-}
-.ss{
-    padding-right: var(--bs-gutter-x,rem);
-    padding-left: var(--bs-gutter-x,rem);
-}
-
-    
-} */
 
 
 .btn1{
@@ -139,21 +105,23 @@
 
 
 
- 
+ /* from 0 to 600 */
 
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:767px) {
+    
     .heads{
         background-image: none;
         background-color: rgb(212, 212, 238);
         width: 100% !important;
-        height: 500px;
+        height: 500px !important;
     }
-.btn1{
+
+    .btn1{
     
     width: 163px !important;
 
-}
+    }
     .services{
         width: 100%;
        
@@ -180,7 +148,7 @@
     }
     .rs{
         font-size: medium;
-}
+    }
     
     .pg{
         font-size: 13px !important;
@@ -192,12 +160,12 @@
         font-size: 72%;
     width: 43%;
     height: 22%;
-}
+    }
 
-.img-section{
+    .img-section{
     display: flex;
     justify-content: center;
-}
+    }
 
     .yellow{
         
@@ -255,47 +223,57 @@
         padding-left: 0 !important;
         margin-top: 0;
     }
-.search{
+    .search{
     width: 100% !important;
     justify-content: end;
 
-}
+    }
 
-.yemad{
+    .yemad{
 
     font-size: 9px !important;
-}
-h4{
+    }
+    h4{
     font-size: 15px;
-}
+    }
 .p-imgSection{
     font-size: 11px;
-}
+    }
 
-.ygb{
+    .ygb{
     width: 44% !important;
-}
+    }
 
-.llogo{
+    .llogo{
     width: 35% !important;
-}
-.app{
+    }
+    .app{
     background-size: contain;
     height: 2rem;
     width: 8rem !important;
-}
+    }
 
-.play{
+    .play{
     background-size: contain;
     height: 2rem;
     width: 8rem !important;
-}
-.pay{
+    }
+    .pay{
     width: 50% !important;
+    }
 }
 
 
+/* from 601 to 767 */
+/* @media screen and(min-width:601px) and (max-width:767px) {
+    .heads{
+        background-image: none;
+        background-color: rgb(212, 212, 238);
+        width: 100% !important;
+        height: 500px !important;
+    }
 
-}
 
+
+} */
 
