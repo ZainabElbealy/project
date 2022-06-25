@@ -1,0 +1,278 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.heads{
+    background-image: url(img/hero4.png);
+    background-repeat: no-repeat;
+    background-size: cover; 
+
+
+}
+
+/* @media screen and(min-width:52px) and (max-width:450px) {
+    .heads{
+    
+        
+        height: 500px;
+    }
+
+
+
+
+} */
+
+
+
+
+/* @media screen and (max-width:600px) {
+.heads{
+    
+    width: 100% !important;
+    height: 500px;
+}
+.btn1{
+    width: 100px !important;
+    height: 28px;
+    font-size: 8pt !important;
+   
+}
+.ss{
+    padding-right: var(--bs-gutter-x,rem);
+    padding-left: var(--bs-gutter-x,rem);
+}
+
+    
+} */
+
+
+.btn1{
+    background-image: url(img/button.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+   
+   
+}
+
+
+
+
+
+.img-glass{
+
+    background-image: url(img/b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.yellow{
+    background-image: url(img/b17.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.gray{
+    background-image: url(img/b10.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.girl{
+
+    background-image: url(img/b7.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+
+}
+
+
+.persons{
+
+    background-image: url(img/b4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+}
+
+.bags{
+
+    background-image: url(img/b18.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+
+
+}
+
+
+
+.text{
+
+    background-image: url(img/b14.png);
+    background-repeat: no-repeat;
+
+
+}
+
+.app{
+    background-image: url(img/app.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.play{
+    background-image: url(img/play.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* @media screen and (min-width:300px) and(max-width:575px){
+
+    /* .f{
+        width:;} */
+
+
+
+ 
+
+
+@media screen and (max-width:600px) {
+    .heads{
+        background-image: none;
+        background-color: rgb(212, 212, 238);
+        width: 100% !important;
+        height: 500px;
+    }
+
+    .services{
+        width: 100%;
+       
+    }
+    .s{
+        display: flex;
+        justify-content: center;
+    }
+ 
+
+    .card{
+        width: 100% !important;
+    }
+    .f{
+        width: 65% !important;
+
+
+    }
+
+
+    .img-glass{
+
+        height: 10rem !important;
+    }
+    .pg{
+        font-size: 22px !important;
+    
+    }
+       
+
+    .ex{
+        font-size: 14px;
+    width: 29%;
+    height: 20%;
+}
+
+
+    .yellow{
+        
+        width: 100% !important;
+        height: 12rem !important;
+
+    }
+    .gray{
+        width: 100% !important;
+        height: 12rem !important;
+    }
+
+    .girl{
+        width: 100% !important;
+        height: 8rem !important;
+    }
+    
+    .persons{
+        width: 100% !important;
+        height: 8rem !important;
+    }
+
+    .bags{
+        width: 100% !important;
+        height: 7rem !important;
+    }
+
+    .search-zone{
+        width: 100% !important;
+        height: 10rem !important;
+
+    }
+
+    .tex-sear{
+        height: 26px;
+
+    }
+
+    .text{
+        height: 7rem !important;
+    }
+
+    .t1{
+        font-size: 12px;
+    }
+
+    .t2{
+        font-size: 14px;
+    }
+    .mar-sear{
+        margin-top: 0;
+    }
+.search{
+    width: 83% !important;
+    justify-content: end;
+
+}
+
+.yemad{
+
+    font-size: 13px !important;
+}
+
+.llogo{
+    width: 35% !important;
+}
+.app{
+    background-size: contain;
+    height: 2rem;
+    width: 8rem !important;
+}
+
+.play{
+    background-size: contain;
+    height: 2rem;
+    width: 8rem !important;
+}
+.pay{
+    width: 50% !important;
+}
+
+
+
+}
+
+
